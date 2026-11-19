@@ -16,4 +16,3 @@ class UserManager:
 
     def count_users(self):
         return len(self.users)
-    
